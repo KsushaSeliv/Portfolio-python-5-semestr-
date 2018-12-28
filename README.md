@@ -1,7 +1,7 @@
 <h1>Portfolio-python-5-semestr</h1>
 
 
-##### №1 Задача с числами. (Lab1,Lab2,sam1,sam2)
+##### №1 Задача с числами. (Lab1,Lab2,sam1,sam2) Исключения
 https://github.com/herzenuni/sem5-firsttask-04092018-KsushaSeliv
 
 ##### №2 Модули, пакеты и система импорта (sam)
