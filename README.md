@@ -19,5 +19,5 @@ https://github.com/python-advance/sem5-collections-KsushaSeliv
 ##### №6 Декораторы
 https://github.com/python-advance/sem5-deco-1-KsushaSeliv
 
-##### №7 Исключения
+##### №7 Исключения (доп.)
 https://github.com/python-advance/sem5-exceptions-KsushaSeliv
